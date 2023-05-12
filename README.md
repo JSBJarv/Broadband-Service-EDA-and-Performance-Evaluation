@@ -75,6 +75,7 @@ Clustering 3D Projection
 <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Cluster%203D%20Projection.png" width="450" height="300"> 
 </p>
 
+<p align="center">
 ### Cluster Profiles
 
 #### Cluster 0:
@@ -108,3 +109,4 @@ Clustering 3D Projection
 - Average Daily Outages: Low-
 - Broadband Service Preference: Telstra, Aussie Broadband and iiNet (Service provider), Fibre to the Node (Technology)
 - Additional Description: Commonly utilized in Victoria State and unavailable for remote services.
+</p>
