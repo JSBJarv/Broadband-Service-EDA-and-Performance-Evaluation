@@ -62,7 +62,7 @@ The following will be done to process our data:
 K-Means Elbow Test
 </p>
 <p align="center">
-<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20K-Elbow.png"> 
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20K-Elbow.png" width="450" height="300"> 
 </p>
 From the elbow visualization above, it seems that k=4 is the optimal number of clusters in this data.
 
@@ -70,7 +70,7 @@ From the elbow visualization above, it seems that k=4 is the optimal number of c
 Clustering 3D Projection
 </p>
 <p align="center">
-<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Cluster%203D%20Projection.png"> 
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Cluster%203D%20Projection.png" width="450" height="300"> 
 </p>
 
 ### Cluster Profiles
