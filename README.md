@@ -40,3 +40,13 @@ Multiple Logistic Regression Accuracy Test
 <p align="center">
 <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="450" height="300"> <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Underperform%20Accuracy.png" width="450" height="300">
 </p>
+
+#### Metrics to consider our service is impaired are:
+- Download speed at 23 is considered as impaired, further decrease in the value increases probability.
+- Upload speed at 5 is considered as impaired, further increase in the value increases probability.
+- Latency value at 13 is considered as impaired, further increase in the value increases probability.
+
+#### Metrics to consider our service is underperforming are:
+- Download speed at 16 is considered as underperforming, further decrease in the value increases probability.
+- Upload speed at 5 is considered as underperforming, further increase in the value increases probability.
+- Latency value at 16 is considered as underperforming, further increase in the value increases probability.
