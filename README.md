@@ -64,7 +64,9 @@ K-Means Elbow Test
 <p align="center">
 <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20K-Elbow.png" width="450" height="300"> 
 </p>
+<p align="center">
 From the elbow visualization above, it seems that k=4 is the optimal number of clusters in this data.
+</p>
 
 <p align="center">
 Clustering 3D Projection
