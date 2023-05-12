@@ -8,9 +8,10 @@
 ### Exploratory Data Analysis
 #### Observations
 There are lots of observations we can get from the visualization and for the sake of this project not being too lengthy, we will only be taking notes of those who tops in the comparison.
-
 <p align="center">
 ![Service Provider vs. Variable Attributes]
+</p>
+<p align="center">
 <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Data%20Analysis.png" width="600" height="450">
 </p>
 
