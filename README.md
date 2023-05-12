@@ -37,8 +37,11 @@ In this section, we will be utilizing the is_this_service_impaired and is_this_s
 <p align="center">
 Multiple Logistic Regression Accuracy Test
 </p>
-<p align="center">
-<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="450" height="300"> <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Underperform%20Accuracy.png" width="450" height="300">
+<p align="left">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="450" height="300"> 
+</p>
+<p align="right">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Underperform%20Accuracy.png" width="450" height="300">
 </p>
 
 #### Metrics to consider our service is impaired are:
