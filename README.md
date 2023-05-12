@@ -51,3 +51,58 @@ Multiple Logistic Regression Accuracy Test
 - Download speed at 16 is considered as underperforming, further decrease in the value increases probability.
 - Upload speed at 5 is considered as underperforming, further increase in the value increases probability.
 - Latency value at 16 is considered as underperforming, further increase in the value increases probability.
+
+
+### Broadband Segmentation by Clustering
+The following will be done to process our data:
+- Label Encoding
+- Scaling our features using Standard Scaler
+- Dimensionality reduction using PCA
+<p align="center">
+K-Means Elbow Test
+</p>
+<p align="center">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20K-Elbow.png"> 
+</p>
+From the elbow visualization above, it seems that k=4 is the optimal number of clusters in this data.
+
+<p align="center">
+Clustering 3D Projection
+</p>
+<p align="center">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Cluster%203D%20Projection.png"> 
+</p>
+
+### Cluster Profiles
+
+#### Cluster 0:
+- Download Speed: up to 275Mbps
+- Upload Speed: up to 40Mbps
+- Latency: High
+- Average Daily Outages: High
+- Broadband Service Preference: Telstra (Service provider), Hybrid Fibre Coaxial (Technology)
+- Additional Description: Commonly utilized in Victoria State and unavailable for remote services.
+
+#### Cluster 1:
+- Download Speed: up to 450Mbps
+- Upload Speed: up to 50Mbps
+- Latency: Low
+- Average Daily Outages: Low
+- Broadband Service Preference: Aussie Broadband or Telstra (Service provider), Fibre to the Premises (Technology)
+- Additional Description: Commonly utilized in New South Wales, top choice in urban geography and unavailable for remote services.
+
+#### Cluster 2:
+- Download Speed: up to 50Mbps
+- Upload Speed: up to 20Mbps
+- Latency: Average
+- Average Daily Outages: Low
+- Broadband Service Preference: Aussie Broadband or TPG (Service provider), Fibre to the Node (Technology)
+- Additional Description: Also commonly utilized in New South Wales and unavailable for remote services.
+
+#### Cluster 3:
+- Download Speed: up to 100Mbps-
+- Upload Speed: up to 40Mbps-
+- Latency: Very Low-
+- Average Daily Outages: Low-
+- Broadband Service Preference: Telstra, Aussie Broadband and iiNet (Service provider), Fibre to the Node (Technology)
+- Additional Description: Commonly utilized in Victoria State and unavailable for remote services.
