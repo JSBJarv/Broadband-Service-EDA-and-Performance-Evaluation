@@ -31,4 +31,4 @@ There are lots of observations we can get from the visualization and for the sak
 ### Performance Classification using Multiple Logistic Regression
 In this section, we will be utilizing the is_this_service_impaired and is_this_service_underperforming to classify the value of our metrics. We will be using Multiple Logistic Regression to determine the have some expectation of our classification based on the value of the KPI metric by having the the recorded observation's corresponding probability.
 
-<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="100" height="100">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="300" height="300">
