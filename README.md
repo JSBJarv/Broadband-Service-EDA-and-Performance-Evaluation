@@ -9,7 +9,7 @@
 #### Observations
 There are lots of observations we can get from the visualization and for the sake of this project not being too lengthy, we will only be taking notes of those who tops in the comparison.
 
-![Service Provider vs. Data Variables]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Data%20Analysis.png))
+![Service Provider vs. Data Variables](https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Data%20Analysis.png)
 
 #### RSP vs. Technology
 - Aussie Broadband, Telstra and iNet are the major providers of Fiber to the Node connection.
