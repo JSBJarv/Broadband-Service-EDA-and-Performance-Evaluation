@@ -9,7 +9,9 @@
 #### Observations
 There are lots of observations we can get from the visualization and for the sake of this project not being too lengthy, we will only be taking notes of those who tops in the comparison.
 
-![Service Provider vs. Data Variables](https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Data%20Analysis.png =250x250)
+<p align="center">
+<img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Data%20Analysis.png" width="450" height="300">
+</p>
 
 #### RSP vs. Technology
 - Aussie Broadband, Telstra and iNet are the major providers of Fiber to the Node connection.
@@ -31,4 +33,6 @@ There are lots of observations we can get from the visualization and for the sak
 ### Performance Classification using Multiple Logistic Regression
 In this section, we will be utilizing the is_this_service_impaired and is_this_service_underperforming to classify the value of our metrics. We will be using Multiple Logistic Regression to determine the have some expectation of our classification based on the value of the KPI metric by having the the recorded observation's corresponding probability.
 
+<p align="center">
 <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Impaired%20Accuracy.png" width="450" height="300"> <img src="https://github.com/JSBJarv/Broadband-Service-EDA-and-Performance-Evaluation/blob/main/MBA%20Underperform%20Accuracy.png" width="450" height="300">
+</p>
